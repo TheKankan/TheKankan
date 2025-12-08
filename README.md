@@ -1,6 +1,6 @@
 ## Hi there I'm Quentin Lejuez 👋
 
-- 🌱 I’m currently learning backend dev with Python and Go
+- 🌱 I recently learned Backend Dev with Python and Go on [Boot.dev](https://www.boot.dev)
 - ⌨️ I'm currently working on my portfolio project
 - 💻 I use Go, Python and C#
 - 🎮 I also made games on [itch.io](https://thekankan.itch.io)

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Quentin Lejuez 👋
 
 - 🌱 I’m currently learning backend dev with Python and Go
 - ⌨️ I'm currently working on my portfolio project
